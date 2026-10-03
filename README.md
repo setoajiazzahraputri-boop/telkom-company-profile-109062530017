@@ -6,5 +6,3 @@ Baris dari Laptop B.
 Perubahan ini dibuat dari simulasi Laptop B
 
 Baris dari Laptop A.
-
-aku suka coding 
