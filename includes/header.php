@@ -61,4 +61,5 @@ $currentPage = basename($_SERVER['PHP_SELF']);
 </header> 
 
 <main> 
-    
+
+<a href="profile.php">Tentang Kami</a>
