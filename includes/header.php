@@ -62,3 +62,4 @@ $currentPage = basename($_SERVER['PHP_SELF']);
 
 <main> 
     
+<a href="profile.php">Tentang Kampus</a>
